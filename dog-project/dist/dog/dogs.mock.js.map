@@ -1,0 +1,1 @@
+{"version":3,"file":"dogs.mock.js","sourceRoot":"","sources":["../../src/dog/dogs.mock.ts"],"names":[],"mappings":";;;AAAa,QAAA,IAAI,GAAG;IAChB;QACI,EAAE,EAAE,KAAK;QACT,IAAI,EAAE,KAAK;QACX,KAAK,EAAE,OAAO;QACd,GAAG,EAAE,CAAC;KACT;CACJ,CAAC"}
